@@ -2,7 +2,7 @@ package migrations
 
 import (
 	"github.com/jinzhu/gorm"
-	"github.com/mahfuz05/bankingtest/helpers"
+	"github.com/mahfuz05/go-banking-restapi/helpers"
 )
 
 type User struct {
